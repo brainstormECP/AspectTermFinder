@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SentimentAnalysis\SentimentAnalysis.csproj", "{3D7D1BD6-4D1C-4F2F-98B2-6905318010A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnaysisTest", "SentimentAnaysisTest\SentimentAnaysisTest.csproj", "{BB5AC062-C0FF-4724-B7BA-53C4FB734B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7D1BD6-4D1C-4F2F-98B2-6905318010A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7D1BD6-4D1C-4F2F-98B2-6905318010A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7D1BD6-4D1C-4F2F-98B2-6905318010A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7D1BD6-4D1C-4F2F-98B2-6905318010A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5AC062-C0FF-4724-B7BA-53C4FB734B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5AC062-C0FF-4724-B7BA-53C4FB734B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5AC062-C0FF-4724-B7BA-53C4FB734B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5AC062-C0FF-4724-B7BA-53C4FB734B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
